@@ -302,6 +302,7 @@ function App() {
               <div className="space-y-2 text-gray-300">
                 <p>Para dúvidas sobre o projeto</p>
                 <p className="text-cyan-400">contato@avcalerta.com</p>
+                <p className="text-cyan-400">+55 (98) 11119-136</p>
                 <p className="text-sm text-gray-400 mt-4">
                   Este é um projeto de pesquisa acadêmica voltado para a saúde pública.
                 </p>
@@ -310,7 +311,7 @@ function App() {
           </div>
 
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 AVC Alerta. Desenvolvido para fins de pesquisa e prevenção de AVC.</p>
+            <p>&copy; 2025 AVC Alerta. Desenvolvido para fins de pesquisa e prevenção de AVC.</p>
           </div>
         </div>
       </footer>
