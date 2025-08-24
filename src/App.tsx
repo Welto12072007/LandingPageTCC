@@ -301,8 +301,7 @@ function App() {
               <h4 className="text-lg font-semibold">Contato</h4>
               <div className="space-y-2 text-gray-300">
                 <p>Para dúvidas sobre o projeto</p>
-                <p className="text-cyan-400">contato@avcalerta.com</p>
-                <p className="text-cyan-400">+55 (98) 11119-136</p>
+                <p className="text-cyan-400">+55 (55) 98111-9136</p>
                 <p className="text-sm text-gray-400 mt-4">
                   Este é um projeto de pesquisa acadêmica voltado para a saúde pública.
                 </p>
